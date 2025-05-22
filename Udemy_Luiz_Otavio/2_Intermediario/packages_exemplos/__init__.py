@@ -1,0 +1,1 @@
+print('__init__ - Vc importou o package "', __name__, ' "')
